@@ -1,2 +1,4 @@
 # Curriculum-Vitae
-CV
+
+- Abrir carpeta html
+- Abrir index.html
